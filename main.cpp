@@ -31,5 +31,5 @@ int main()
     		my_conversion.converting();//Calling conversion function
     	}//If statement occurs if menu returns false meaning user doesn't want to quit program
     }while(quit != true);//Loop that runs until quit is set to true
-    return 0;
+ return 0;
 }
